@@ -2,8 +2,6 @@
 ## About Me:
 I am a Akbar a dedicated full-stack developer. I enjoy turing ideas into real tools that people can use. 
 ## Contact Me
-## Contact Me
-## Contact Me
 <a href="https://www.linkedin.com/in/mohammad-akbar-anwar-a20057207/" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
