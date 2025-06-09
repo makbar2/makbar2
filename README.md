@@ -16,7 +16,7 @@ I am a Akbar a dedicated full-stack developer. I enjoy turing ideas into real to
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />     
 <br/>
-#
+
 ## Stats
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=makbar2&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
