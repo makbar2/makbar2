@@ -8,7 +8,6 @@ I am a Akbar a dedicated full-stack developer. I enjoy turing ideas into real to
 <br/>
 
 
----
 ## My Tool-box 🧰
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
