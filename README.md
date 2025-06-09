@@ -1,15 +1,20 @@
-## Hi there 👋
-Hi I am full-stack developer.
+# Hi there 👋 I'm Akbar Anwar
+## About Me:
+I am a Akbar a dedicated full-stack developer. I enjoy turing ideas into real tools that people can use. 
+## Contact Me
+[![LinkedIn](https://www.linkedin.com/in/mohammad-akbar-anwar-a20057207/)(
+            <img align="left" alt="C#" width="30px" style="padding-right:10px" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          )]
 ---
-## Languages and tools
-
+## My Tool-box 🧰
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />     
 <br/>
-
 #
 ## Stats
 
