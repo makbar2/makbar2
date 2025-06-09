@@ -1,8 +1,20 @@
 ## Hi there 👋
 Hi I am full-stack developer.
+---
 ##Languages and tools
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<br/>
+
+#
+
+          
+
+          
           
 <!--
 **makbar2/makbar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
