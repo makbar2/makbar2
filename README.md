@@ -5,6 +5,7 @@ I am a Akbar a dedicated full-stack developer. I enjoy turing ideas into real to
 <a href="https://www.linkedin.com/in/mohammad-akbar-anwar-a20057207/" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
+<a href="mailto:moakbar202@gmail.com>moakbar202@gmail.com</a>
 <br/>
 
 
